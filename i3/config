@@ -30,7 +30,7 @@ for_window [class="flameshot"] floating enable
 
 
 exec --no-startup-id ~/.config/polybar/launch.sh
-exec --no-startup-id fcitx
+exec_always --no-startup-id fcitx
 
 set $mod Mod4
 
