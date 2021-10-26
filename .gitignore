@@ -1,6 +1,7 @@
 autostart
 catfish
 coc
+Code
 dconf
 falkon
 fcitx
@@ -9,6 +10,7 @@ GIMP
 google-chrome
 gtk-2.0
 gtk-3.0
+htop
 Kvantum
 manjaro
 Mousepad
@@ -18,11 +20,12 @@ procps
 pulse
 qt5ct
 qv2ray
-ranger
+ranger/plugins
 Thunar
 Typora
 vlc
 volumeicon
+viewnior
 xfce4
 manjaro-hello.json
 mimeapps.list
